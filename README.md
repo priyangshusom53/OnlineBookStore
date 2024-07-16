@@ -1,1 +1,2 @@
-# A functional online book shopping platform.
+# OnlineBookStore
+A functional online book shopping platform.
